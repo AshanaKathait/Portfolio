@@ -1,0 +1,1 @@
+Welcome to my personal portfolio! This website showcases my projects, skills, and experiences in web development and machine learning. It is designed to highlight my technical abilities and provide a glimpse into my professional journey.
